@@ -4,9 +4,8 @@
 
 This project leverages Tableau to analyze and visualize data related to credit card complaints from 2018 to 2021. The goal is to uncover patterns, trends, and insights that can aid in understanding customer grievances and the efficiency of company responses.
 
-Objectives
 
-The analysis focuses on the following key aspects:
+## The analysis focuses on the following key aspects:
 
 ## Total Complaints: 
 Calculate the overall number of complaints received.
